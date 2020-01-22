@@ -1,18 +1,18 @@
 <p align="center"><img src="https://sp-cdn.mytaste.org/images/logo-full.svg?v=197" height="50px"></p>
 
 ## Frontend Work sample
-This test is conducted to see how you write frontend code.
+This test is conducted to see how, and how well, you write frontend code.
 
-##### Handing in
+##### Delivery
 Work in your own git and send us a link to your repo.
 
-Do as many steps as possible. Do not be afraid to hand in unfinished work, just leave a comment about what might be missing.
+Do as many steps as possible. Do not be afraid to hand in unfinished work, just leave a comment about what might be missing and how you prioritised.
 
 ##### Restrictions
 No restrictions.
 
 #### The assignment
-In this assignment we would like you to build a DataTable displaying all of the James Bond movies.  
+In this assignment we would like you to build a DataTable displaying all of the James Bond movies.
 
 ##### Part 1
 1) You need to create a DataTable with the data from the ***movies.json*** file.
