@@ -21,6 +21,9 @@ In this assignment we would like you to build a DataTable displaying all of the 
 ##### Restrictions
 No restrictions
 
+##### Handing in
+Do as many steps as possible. Do not be afraid to hand in unfinished work, just leave a comment about what might be missing.
+
 ##### movies.json
 This .json file contains all the James Bond movies and its data and properties are listed below.
    
