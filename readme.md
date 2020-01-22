@@ -3,6 +3,13 @@
 ## Frontend Work sample
 This test is conducted to see how you write frontend code.
 
+##### Handing in
+Work in your own git and send us a link to your repo.
+
+Do as many steps as possible. Do not be afraid to hand in unfinished work, just leave a comment about what might be missing.
+
+##### Restrictions
+No restrictions.
 
 #### The assignment
 In this assignment we would like you to build a DataTable displaying all of the James Bond movies.  
@@ -17,12 +24,6 @@ In this assignment we would like you to build a DataTable displaying all of the 
 ##### Part 2
 1) Style your DataTable and pages with SCSS and compile it with gulp.
 2) Minify your compiled gulp tasks.
-
-##### Restrictions
-No restrictions.
-
-##### Handing in
-Do as many steps as possible. Do not be afraid to hand in unfinished work, just leave a comment about what might be missing.
 
 ##### movies.json
 This .json file contains all the James Bond movies and its data and properties are listed below.
