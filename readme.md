@@ -8,18 +8,18 @@ This test is conducted to see how you write frontend code.
 In this assignment we would like you to build a DataTable displaying all of the James Bond movies.  
 
 ##### Part 1
-1) You need to create a DataTable with the data from the ***movies.json*** file
-2) On the list view, you should have the following fields `title`, `year`, `actor` 
-3) The default sorting on the datatable should `year high-low` 
-4) The movies should be paginated with `10` movies per page
-5) When clicking on a row in the DataTable, a modal should appear showing all the available data for the movie
+1) You need to create a DataTable with the data from the ***movies.json*** file.
+2) On the list view, you should have the following fields `title`, `year`, `actor`.
+3) The default sorting on the datatable should `year high-low`.
+4) The movies should be paginated with `10` movies per page.
+5) When clicking on a row in the DataTable, a modal should appear showing all the available data for the movie.
 
 ##### Part 2
 1) Style your DataTable and pages with SCSS and compile it with gulp.
-2) Minify your compiled gulp tasks
+2) Minify your compiled gulp tasks.
 
 ##### Restrictions
-No restrictions
+No restrictions.
 
 ##### Handing in
 Do as many steps as possible. Do not be afraid to hand in unfinished work, just leave a comment about what might be missing.
